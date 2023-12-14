@@ -1446,6 +1446,7 @@ input[type="button"]:focus {
   }
 }
 .footer {
+  background: url("../img/background.jpg") center center/cover no-repeat;
   position: relative;
   width: 100%;
   height: 100px;
@@ -1526,7 +1527,7 @@ input[type="button"]:focus {
 }*/
 
 .container {
-  background: url("../img/background.jpg")  center center/cover no-repeat;
+  background: url("../img/background.jpg") center center/cover no-repeat;
   width: 100%;
   max-width: 1200px;
   margin-top: 0px;
@@ -1536,7 +1537,7 @@ input[type="button"]:focus {
 
 /* modification pour le style */
 .profile {
-  background: url("../img/background.jpg")  center center/cover no-repeat;
+  background: url("../img/background.jpg") center center/cover no-repeat;
   text-align: center;
   padding: 20px;
   border-radius: 15px;
