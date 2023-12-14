@@ -1549,7 +1549,6 @@ input[type="button"]:focus {
   background: url('./img/backgroud.jpeg');
   text-align: center;
   padding: 20px;
-  background-color: #f9f9f9;
   border-radius: 15px;
   border: 1px solid rgb(229, 147, 147);
  /* box-shadow: 0 0 10px rgb(229, 147, 147);*/
