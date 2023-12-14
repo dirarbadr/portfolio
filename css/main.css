@@ -1526,7 +1526,6 @@ input[type="button"]:focus {
 }*/
 
 .container {
-  background: url("./img/backgroud.jpg") center center/cover no-repeat;
   width: 100%;
   max-width: 1200px;
   margin-top: 0px;
@@ -1536,7 +1535,7 @@ input[type="button"]:focus {
 
 /* modification pour le style */
 .profile {
-  background: url("./img/background.jpg") center center;
+  background: url("../img/background.jpg") center center;
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
