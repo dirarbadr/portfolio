@@ -24,7 +24,7 @@ summary {
   display: block;
 }
 .section {
-  background: url("../img/background.jpg") center center/cover no-repeat;
+  background-image: url("../img/background.jpg");
 }
 audio,
 canvas,
@@ -1530,7 +1530,7 @@ input[type="button"]:focus {
 }*/
 
 .container {
-  background: url("../img/background.jpg") center center/cover no-repeat;
+  background-image: url("../img/background.jpg") ;
   width: 100%;
   max-width: 1200px;
   margin-top: 0px;
@@ -1540,7 +1540,7 @@ input[type="button"]:focus {
 
 /* modification pour le style */
 .profile {
-  background: url("../img/background.jpg") center center/cover no-repeat;
+  background-image: url("../img/background.jpg") center center/cover no-repeat;
   text-align: center;
   padding: 20px;
   border-radius: 15px;
