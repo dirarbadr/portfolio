@@ -1547,6 +1547,7 @@ input[type="button"]:focus {
 /* modification pour le style */
 .profile {
   background: url('./img/backgroud.jpg');
+  background: url('./img/backgroud.jpg') center center/cover no-repeat;
   text-align: center;
   padding: 20px;
   border-radius: 15px;
