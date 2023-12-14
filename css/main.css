@@ -23,6 +23,9 @@ section,
 summary {
   display: block;
 }
+.section {
+  background: url("../img/background.jpg") center center/cover no-repeat;
+}
 audio,
 canvas,
 progress,
