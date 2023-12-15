@@ -1723,9 +1723,7 @@ input[type="button"]:focus {
   background: #ff004f;
   transform: translateY(-10px);
 }
-#header{
-  background-image: url(./images/binary\ 2.jpg);
-}
+
 
 .header-text h1 span{
   color: #ff004f;
