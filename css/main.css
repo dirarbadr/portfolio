@@ -1726,15 +1726,7 @@ input[type="button"]:focus {
 #header{
   background-image: url(./images/binary\ 2.jpg);
 }
-.header-text {
-  margin-top: 70%;
-  font-size: 16px;
 
-}
-.header-text h1{
-  font-size: 30px;
-  margin-top: 20px;
-}
 .header-text h1 span{
   color: #ff004f;
 }
