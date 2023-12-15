@@ -1735,3 +1735,6 @@ input[type="button"]:focus {
   font-size: 30px;
   margin-top: 20px;
 }
+.header-text h1 span{
+  color: #ff004f;
+}
